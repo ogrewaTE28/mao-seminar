@@ -7,6 +7,7 @@
 若葉
 一人追加
 さらに追加
+もう1人追加
 
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
