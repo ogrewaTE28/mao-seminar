@@ -5,6 +5,7 @@
 真央教授
 エルマス
 若葉
+一人追加予定
 
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
